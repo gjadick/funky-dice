@@ -1,5 +1,5 @@
 # funky-dice
-A dice roll simulator with randomized die face.
+A dice roll simulator with randomized pip locations.
 
 Some fun examples:
 
